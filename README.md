@@ -1,1 +1,1 @@
-# Gate Calculator
+# Calculator
